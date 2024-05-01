@@ -37,7 +37,7 @@ catalogue==2.0.10
 certifi==2024.2.2
 cffi==1.16.0
 chardet==5.2.0
-pycairo == 1.15.10
+pycairo == 1.11.0
 charset-normalizer==3.3.2
 chex==0.1.86
 click==8.1.7
