@@ -20,7 +20,7 @@ from pandas.api.types import (
     is_datetime64_any_dtype,
     is_numeric_dtype,
     is_object_dtype,)
-from datasets import (filter_data, filter_dataframe)
+#from datasets import (filter_data, filter_dataframe)
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.resnet_v2 import ResNet50V2, preprocess_input, decode_predictions
 
